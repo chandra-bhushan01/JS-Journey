@@ -15,5 +15,6 @@ for (const num of arr) {
 const greeting = "hello world"
 for (const greet of greeting) {
     console.log("char: "+greet);
+    console.log("kaa jii simran")
 }
 
